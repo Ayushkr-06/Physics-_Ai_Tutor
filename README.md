@@ -176,6 +176,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Google's Gemini AI platform
 - Open-source community
 
-## � Support
 
-For support, email [skshivam771@gmail.com] or raise an issue in the repository.
+
